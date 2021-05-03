@@ -1,0 +1,7 @@
+
+
+ArrayList é um objeto de array em que você pode mexer no tamanho conforme desejar.
+
+Também pode adicionar ou remover elementos durante a fase de compilação
+
+Um ArrayList só pode armazenar 'references data types'

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Abstraction:jar">
+    <output-path>$USER_HOME$/Documents/JavaExe/Abstraction</output-path>
+    <root id="archive" name="Abstraction.jar">
+      <element id="module-output" name="Abstraction" />
+    </root>
+  </artifact>
+</component>

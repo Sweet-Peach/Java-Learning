@@ -1,0 +1,17 @@
+
+-----------------------------ACCESS MODIFIERS--------------------------------
+
+Access modifiers são palavras chaves que determinam a segurança de uma variável, classe, método, etc.
+Essas palavras determinam que poderá acessar o componente em questão.
+
+A imagem anexada (access modifiers.png) explicita quem pode acessar cada componente conforme a nomeclatura.
+
+Visibilidade 'public' podem ser acessados por todos os pacotes e todas as classes. Resumindo, é global.
+
+Visibilidade 'protected' pode ser acessado por qualquer pacote, classe e subclasse
+(desde que a subclasse seja a herdeira de uma classe)
+
+Não usar nenhum access modifier faz com que o valor e acesso seja 'default'.
+Visibilidade 'default' pode ser acessada por aquela classe e pelo pacote.
+
+Visibilidade 'private' só pode ser vista por aquela class, e nada mais. Mesmo que esteja na mesmo pacote.

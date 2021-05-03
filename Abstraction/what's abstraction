@@ -1,0 +1,15 @@
+
+---------------------Data Abstraction-------------------
+
+Abstraction é o processo de esconder certos detalhes e mostrar somente as informações necessárias ao usuário.
+Abstraction funciona tanto em classes quanto em interfaces.
+
+As 'abstract keyword' são 'non-access modifier', usado em classes e métodos.
+
+    *Abstract class: é uma classe restrita que não pode ser usada para criar objetos
+    (para acessa-lá você deve fazer o inherited por outra classe.
+    Ex.: "public class X extends _nome da classe abstract_" ).
+
+    *Abstract method: só pode ser usado em uma *Abstract class, e não possuí corpo. O corpo é criado na sub-classe
+    (inherited).
+

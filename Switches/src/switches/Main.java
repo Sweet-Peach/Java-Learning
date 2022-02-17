@@ -29,7 +29,7 @@ public class Main {
         }
 
         // A importância do uso dos "break's" é que sem eles o código é executado por completo, com eles, entende-se que é para parar a leitura
-        // O switch é CamelCase!!!
+        // O switch é CaseSensi!!!
 
     }
 }
